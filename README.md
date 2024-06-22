@@ -55,6 +55,7 @@ Complete more data analysis projects: I aim to work on more data analysis projec
 Continuing to Educate Myself: Data science is a rapidly evolving field. Therefore, I plan to continue learning and attending online courses and trainings to continuously improve myself and learn new information.
 
 Long Term Goals:
+
 Working on Large Scale Data Projects: As my experience grows, I have the goal of working on more complex and large-scale data projects. These projects will challenge my data science skills and give me a deeper understanding of the use of data analysis in industrial applications.
 
 Contributing to the Data Science Community: I want to share what I have learned on my data science journey with others. I aim to take part in open source projects and take an active role in knowledge sharing platforms to support people who want to learn data science and contribute to the growth of the community.
