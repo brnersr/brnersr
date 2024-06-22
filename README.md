@@ -17,12 +17,12 @@ Throughout the data analysis specialization training, I tried to improve my comp
 
 You can find various data analysis projects on my GitHub profile. The techniques and tools I used in these projects include SQL, Python, Pandas, Matplotlib, Seaborn, and Power BI. Here are some of my projects:
 
-1. **[SQL-Olist E-commerce](https://github.com/brnersr/Olist_E_Commerce)**
-   - Analysis of Olist e-commerce data using SQL.
-
-2. **[SQL-Python-PowerBI-Northwind Sales Product Customer Performance Report](https://github.com/brnersr/Northwind-Project)**
+1. **[SQL-Python-PowerBI-Northwind Sales Product Customer Performance Report](https://github.com/brnersr/Northwind-Project)**
    - Comprehensive performance report of Northwind sales, products, and customers using SQL, Python, and Power BI.
 
+2. - **[SQL-Olist E-commerce](https://github.com/brnersr/Olist_E_Commerce)**
+   - Analysis of Olist e-commerce data using SQL.
+  
 3. **[PowerBI-Hotel Booking Sales and Customer Performance Report & Dashboard](https://github.com/brnersr/Hotel_Booking)**
    - Hotel booking sales and customer performance analysis with an interactive Power BI dashboard.
 
