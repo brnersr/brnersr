@@ -1,6 +1,6 @@
-## About Me
+## 👋 About Me
 
-## 👋 Hello, I'm Berna!
+### Hello, I'm Berna!
 I'm passionate about data analysis with a background in computer programming and IT education. I recently completed a 1-year data analysis specialization program, where I honed my skills in data wrangling, statistical analysis, machine learning and data visualization. I continue to improve my skills in this area through online training sites such as Udemy.
 Prior to my data science journey, I worked as a computer science teacher. My background in computer programming provided a solid foundation for understanding algorithms and data structures, which has been invaluable in my data analysis pursuits.
 Finding meaningful insights through data analysis and sharing these insights excites me greatly. I’m  particularly interested in applying data analysis to solve real-world problems in various domains, such as e-commerce, healthcare, and education. I am excited to leverage my skills and knowledge to make a positive impact and contribute to meaningful insights.
