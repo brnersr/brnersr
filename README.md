@@ -29,7 +29,7 @@ You can find various data analysis projects on my GitHub profile. The techniques
 4. **[Python-Travel Agency Performance Report](https://github.com/brnersr/Travel-Agency)**
    - Performance analysis of a travel agency using Python.
 
-5. **[Python-Nobel Award Data Analysis](https://github.com/brnersr/Nobel_Award))**
+5. **[Python-Nobel Award Data Analysis](https://github.com/brnersr/Nobel_Award)**
    - Data analysis of Nobel award winners using Python.
 
 6. **[Python-Spotify-Youtube](https://github.com/brnersr/Spotify_Youtube_EDA)**
