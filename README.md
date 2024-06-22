@@ -38,7 +38,7 @@ You can find various data analysis projects on my GitHub profile. The techniques
 
 - Email: bernaersari@gmail.com
 
-I am open to any collaboration and project proposals related to data analysis. Feel free to reach out!
+I'm open to any collaboration and project proposals related to data analysis. Feel free to reach out!
 
 ## 🌱 Ongoing Learning
 
