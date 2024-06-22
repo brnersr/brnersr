@@ -20,7 +20,7 @@ You can find various data analysis projects on my GitHub profile. The techniques
 1. **[SQL-Python-PowerBI-Northwind Sales Product Customer Performance Report](https://github.com/brnersr/Northwind-Project)**
    - Comprehensive performance report of Northwind sales, products, and customers using SQL, Python, and Power BI.
 
-2. - **[SQL-Olist E-commerce](https://github.com/brnersr/Olist_E_Commerce)**
+2. **[SQL-Olist E-commerce](https://github.com/brnersr/Olist_E_Commerce)**
    - Analysis of Olist e-commerce data using SQL.
   
 3. **[PowerBI-Hotel Booking Sales and Customer Performance Report & Dashboard](https://github.com/brnersr/Hotel_Booking)**
