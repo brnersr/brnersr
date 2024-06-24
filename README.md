@@ -11,7 +11,7 @@ Key Skills:
 * Data visualization and storytelling
 - MS Excel, Python, SQL, Power BI, DAX
   
-I'm always eager to learn new things and collaborate with others. I am passionate about data analytics and its potential to transform industries and improve decision-making.
+I'm always eager to learn new things and collaborate with others. I'm passionate about data analytics and its potential to transform industries and improve decision-making.
 
 ## 🚀 My Projects
 Throughout the data analysis specialization training, I tried to improve my competencies in this field with many project studies. I would like to share these studies that I had the opportunity to apply what I learned.
