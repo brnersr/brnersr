@@ -10,6 +10,7 @@ Key Skills:
 * Statistical analysis and hypothesis testing
 * Data visualization and storytelling
 - MS Excel, Python, SQL, Power BI, DAX
+  
 I'm always eager to learn new things and collaborate with others. I am passionate about data analytics and its potential to transform industries and improve decision-making.
 
 ## 🚀 My Projects
