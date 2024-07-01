@@ -44,8 +44,8 @@ I'm open to any collaboration and project proposals related to data analysis. Fe
 ## 🌱 Ongoing Learning
 
 Currently, I am working on:
+*  Machine Learning Algorithms **[Machine_Learning_Notes](https://github.com/brnersr/machine_learning)**
 *  SQL Queries
-*  Machine Learning Algorithms
 *  Data Visualization Techniques
 
 ## 🎯 My Goals
