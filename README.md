@@ -36,6 +36,10 @@ You can find various data analysis projects on my GitHub profile. The techniques
 
 6. **[Python-Spotify-Youtube](https://github.com/brnersr/Spotify_Youtube_EDA)**
    - Analysis of data from Spotify and YouTube using Python.
+     
+7. **[Python-Churn Analysis](https://github.com/brnersr/churn_analysis)**
+   - Analysis of Churn Customer using Python.
+     
 ## 📫 Contact Me
 
 - Email: bernaersari@gmail.com
