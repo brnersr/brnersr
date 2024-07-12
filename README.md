@@ -23,7 +23,7 @@ You can find various data analysis projects on my GitHub profile. The techniques
 
 2. **[SQL-Pyhton-Olist E-commerce](https://github.com/brnersr/Olist_E_Commerce)**
    - Analysis of Olist e-commerce data using SQL.
-   - EDA-RFM-CLTV analysis using Pyhton.
+   - EDA-RFM-CLTV-COHORT analysis using Pyhton.
   
 3. **[PowerBI-Hotel Booking Sales and Customer Performance Report & Dashboard](https://github.com/brnersr/Hotel_Booking)**
    - Hotel booking sales and customer performance analysis with an interactive Power BI dashboard.
