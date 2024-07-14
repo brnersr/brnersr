@@ -43,7 +43,7 @@ You can find various data analysis projects on my GitHub profile. The techniques
 ## 📫 Contact Me
 
 - Email: ersari.berna@gmail.com
--  **[Linkedin-bernaersari](linkedin.com/in/bernaersari)**
+-  **[Linkedin-bernaersari]([linkedin.com/in/bernaersari])**
 
 I'm open to any collaboration and project proposals related to data analysis. Feel free to reach out!
 
