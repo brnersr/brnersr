@@ -52,6 +52,7 @@ I'm open to any collaboration and project proposals related to data analysis. Fe
 
 Currently, I am working on:
 *  Machine Learning Algorithms&Models **[Machine_Learning_Notes](https://github.com/brnersr/machine_learning)**
+*  Data Scientist Bootcamp **[Data Scientist_Notes](https://github.com/brnersr/data_scientist_bootcamp)**
 *  SQL Queries
 *  Data Visualization Techniques
 *  Pyhton scripts
