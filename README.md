@@ -45,51 +45,44 @@ Here are some of the projects I’ve worked on to apply and enhance my skills in
 9. **[Python-Churn Analysis](https://github.com/brnersr/churn_analysis)**
    - Analysis of Churn Customers using Python.
      
-## 📫 Contact Me
 
-- Email: ersari.berna@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/bernaersari/)
-
-
-
-## 🌱 Ongoing Learning
+## 🌱 My Notes:
 
 Currently, I am working on:
-*  Machine Learning Algorithms&Models **[Machine_Learning_Notes](https://github.com/brnersr/machine_learning)**
-*  Data Scientist Bootcamp **[Data Scientist_Notes](https://github.com/brnersr/data_scientist_bootcamp)**
-*  SQL Queries
-*  Pyhton scripts
+*  Machine Learning Algorithms & Models **[Machine_Learning_Notes](https://github.com/brnersr/machine_learning)**
+*  Data Science **[Data Scientist_Notes](https://github.com/brnersr/data_scientist_bootcamp)**
+
 
 ## 🎯 My Goals
-__Short Term Goals_:
+_Short Term Goals_:
 
-Complete more data analysis projects: I aim to work on more data analysis projects to increase my experience in the field of data science. I believe that these projects will help me improve my skills using different data sources, techniques and tools.
+Complete more ML Project: I aim to work on more machine learning projects to increase my experience in the field of data science. I believe that these projects will help me improve my skills using different data sources, techniques and tools.
 
 Continuing to Educate Myself: Data science is a rapidly evolving field. Therefore, I plan to continue learning and attending online courses and trainings to continuously improve myself and learn new information.
 
-__Long Term Goals_:
+_Long Term Goals_:
 
 Working on Large Scale Data Projects: As my experience grows, I have the goal of working on more complex and large-scale data projects. These projects will challenge my data science skills and give me a deeper understanding of the use of data analysis in industrial applications.
 
 Contributing to the Data Science Community: I want to share what I have learned on my data science journey with others. I aim to take part in open source projects and take an active role in knowledge sharing platforms to support people who want to learn data science and contribute to the growth of the community.
 
 
-📚 Ongoing Work in Teaching and ICT
+## 📚 Ongoing Work in Teaching and ICT
 Computer Science and Programming Teaching: Teaching students fundamental computer science concepts such as software development, algorithms, data structures, and problem-solving.
 
 Teaching Robotics: Providing students with knowledge of robotics and automation technologies, and offering hands-on experiences in robot programming and design.
 
 Technology Integration: Increasing the use of technology in education, incorporating ICT tools and programming languages into the curriculum, and enhancing the teaching methods through innovative technological approaches.
+
+
+  ## 📫 Contact Me
+
+- Email: ersari.berna@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/bernaersari/)
+
 ---
 
-
-
-
-
 Thank you for visiting my page! Feel free to explore my projects and provide feedback.
-
-
-
 
 <!---
 brnersr/brnersr is a ✨ special  repository because its `README.md` (this file) appears on your GitHub profile.
