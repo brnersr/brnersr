@@ -21,7 +21,8 @@ Throughout the data analysis specialization training, I tried to improve my comp
 Here are some of the projects I’ve worked on to apply and enhance my skills in data analytics and machine learning:
 
 1. **[On the Path of Pedals: Smart Predictions in Bike-Sharing- ML Project](https://github.com/brnersr/)**
-    -A prediction project leveraging machine learning to forecast demand, optimize bike allocation, and enhance operational efficiency in bike-sharing systems.
+   
+    - A prediction project leveraging machine learning to forecast demand, optimize bike allocation, and enhance operational efficiency in bike-sharing systems.
 
 3. **[SQL-Python-PowerBI-Northwind Sales Product Customer Performance Report](https://github.com/brnersr/Northwind-Project)**
    - Comprehensive performance report of Northwind sales, products, and customers using SQL, Python, and Power BI.
