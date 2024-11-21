@@ -2,7 +2,7 @@
 
 ### Hello, I'm Berna!
 Hello, I’m Berna!
-I am currently working as a **computer science teacher** with a growing passion for **artificial intelligence** and **machine learning** . Recently, I completed a data analysis specialization program and a data scientist training course, where I enhanced my skills in machine learning algorithms, statistical analysis, Python programming, SQL, data visualization an Power BI
+I am currently working as a **computer science teacher** with a growing passion for **artificial intelligence** and **machine learning**. Recently, I completed a data analysis specialization program and a data scientist training course, where I enhanced my skills in machine learning algorithms, statistical analysis, Python programming, SQL, data visualization an Power BI
 
 I’m particularly excited about applying AI and data science to solve real-world problems in domains like e-commerce, education, and healthcare. Discovering meaningful insights and developing innovative solutions drive my passion for this field.
 
