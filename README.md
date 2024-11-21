@@ -20,29 +20,29 @@ Throughout the data analysis specialization training, I tried to improve my comp
 
 Here are some of the projects I’ve worked on to apply and enhance my skills in data analytics and machine learning:
 
-1. **[On the Path of Pedals: Smart Predictions in Bike-Sharing](https://github.com/brnersr/)**
+1. **[On the Path of Pedals: Smart Predictions in Bike-Sharing- ML Project](https://github.com/brnersr/)**
     -A prediction project leveraging machine learning to forecast demand, optimize bike allocation, and enhance operational efficiency in bike-sharing systems.
 
-2. **[SQL-Python-PowerBI-Northwind Sales Product Customer Performance Report](https://github.com/brnersr/Northwind-Project)**
+3. **[SQL-Python-PowerBI-Northwind Sales Product Customer Performance Report](https://github.com/brnersr/Northwind-Project)**
    - Comprehensive performance report of Northwind sales, products, and customers using SQL, Python, and Power BI.
 
-3. **[SQL-Pyhton-Olist E-commerce](https://github.com/brnersr/Olist_E_Commerce)**
+4. **[SQL-Pyhton-Olist E-commerce](https://github.com/brnersr/Olist_E_Commerce)**
    - Analysis of Olist e-commerce data using SQL.
    - EDA-RFM-CLTV-COHORT analysis using Pyhton.
   
-4. **[PowerBI-Hotel Booking Sales and Customer Performance Report & Dashboard](https://github.com/brnersr/Hotel_Booking)**
+5. **[PowerBI-Hotel Booking Sales and Customer Performance Report & Dashboard](https://github.com/brnersr/Hotel_Booking)**
    - Hotel booking sales and customer performance analysis with an interactive Power BI dashboard.
 
-5. **[Python-Travel Agency Performance Report](https://github.com/brnersr/Travel-Agency)**
+6. **[Python-Travel Agency Performance Report](https://github.com/brnersr/Travel-Agency)**
    - Performance analysis of a travel agency using Python.
 
-6. **[Python-Nobel Award Data Analysis](https://github.com/brnersr/Nobel_Award)**
+7. **[Python-Nobel Award Data Analysis](https://github.com/brnersr/Nobel_Award)**
    - Data analysis of Nobel award winners using Python.
 
-7. **[Python-Spotify-Youtube](https://github.com/brnersr/Spotify_Youtube_EDA)**
+8. **[Python-Spotify-Youtube](https://github.com/brnersr/Spotify_Youtube_EDA)**
    - Analysis of data from Spotify and YouTube using Python.
      
-8. **[Python-Churn Analysis](https://github.com/brnersr/churn_analysis)**
+9. **[Python-Churn Analysis](https://github.com/brnersr/churn_analysis)**
    - Analysis of Churn Customers using Python.
      
 ## 📫 Contact Me
