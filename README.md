@@ -1,4 +1,4 @@
-## 👋 About Me
+## 👩‍💻 Berna Ersarı 
 
 ### Hello, I'm Berna!
 Hello, I’m Berna!
