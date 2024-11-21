@@ -73,7 +73,18 @@ Working on Large Scale Data Projects: As my experience grows, I have the goal of
 
 Contributing to the Data Science Community: I want to share what I have learned on my data science journey with others. I aim to take part in open source projects and take an active role in knowledge sharing platforms to support people who want to learn data science and contribute to the growth of the community.
 
+
+📚 Ongoing Work in Teaching and ICT
+Computer Science and Programming Teaching: Teaching students fundamental computer science concepts such as software development, algorithms, data structures, and problem-solving.
+
+Teaching Robotics: Providing students with knowledge of robotics and automation technologies, and offering hands-on experiences in robot programming and design.
+
+Technology Integration: Increasing the use of technology in education, incorporating ICT tools and programming languages into the curriculum, and enhancing the teaching methods through innovative technological approaches.
 ---
+
+
+
+
 
 Thank you for visiting my page! Feel free to explore my projects and provide feedback.
 
