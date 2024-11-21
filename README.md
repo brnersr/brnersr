@@ -2,11 +2,11 @@
 
 ### Hello, I'm Berna!
 Hello, I’m Berna!
-I am currently working as a computer science teacher with a growing passion for artificial intelligence and machine learning. Recently, I completed a data analysis specialization program and a data scientist training course, where I enhanced my skills in statistical analysis, data visualization, Python programming, SQL, Power BI, and machine learning algorithms.
+I am currently working as a **computer science teacher** with a growing passion for **artificial intelligence** and **machine learning** . Recently, I completed a data analysis specialization program and a data scientist training course, where I enhanced my skills in machine learning algorithms, statistical analysis, Python programming, SQL, data visualization an Power BI
 
 I’m particularly excited about applying AI and data science to solve real-world problems in domains like e-commerce, education, and healthcare. Discovering meaningful insights and developing innovative solutions drive my passion for this field.
 
-Key Skills
+Key Skills:
 * Machine Learning Algorithms and Models
 * Statistical Analysis and Hypothesis Testing
 * Data Cleaning and Organization
@@ -62,13 +62,13 @@ Currently, I am working on:
 *  Pyhton scripts
 
 ## 🎯 My Goals
-Short Term Goals:
+__Short Term Goals:
 
 Complete more data analysis projects: I aim to work on more data analysis projects to increase my experience in the field of data science. I believe that these projects will help me improve my skills using different data sources, techniques and tools.
 
 Continuing to Educate Myself: Data science is a rapidly evolving field. Therefore, I plan to continue learning and attending online courses and trainings to continuously improve myself and learn new information.
 
-Long Term Goals:
+__Long Term Goals:
 
 Working on Large Scale Data Projects: As my experience grows, I have the goal of working on more complex and large-scale data projects. These projects will challenge my data science skills and give me a deeper understanding of the use of data analysis in industrial applications.
 
