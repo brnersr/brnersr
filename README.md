@@ -61,13 +61,13 @@ Currently, I am working on:
 *  Pyhton scripts
 
 ## 🎯 My Goals
-__Short Term Goals:
+__Short Term Goals_:
 
 Complete more data analysis projects: I aim to work on more data analysis projects to increase my experience in the field of data science. I believe that these projects will help me improve my skills using different data sources, techniques and tools.
 
 Continuing to Educate Myself: Data science is a rapidly evolving field. Therefore, I plan to continue learning and attending online courses and trainings to continuously improve myself and learn new information.
 
-__Long Term Goals:
+__Long Term Goals_:
 
 Working on Large Scale Data Projects: As my experience grows, I have the goal of working on more complex and large-scale data projects. These projects will challenge my data science skills and give me a deeper understanding of the use of data analysis in industrial applications.
 
